@@ -1,0 +1,32 @@
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\exemplo_ dado_ em _aula.exe
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\exemplo_ dado_ em _aula.deps.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\exemplo_ dado_ em _aula.runtimeconfig.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\exemplo_ dado_ em _aula.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\ref\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\bin\Debug\net5.0\exemplo_ dado_ em _aula.pdb
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.AssemblyInfo.cs
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\ref\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.pdb
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ dado_ em _aula\obj\Debug\net5.0\exemplo_ dado_ em _aula.genruntimeconfig.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\exemplo_ dado_ em _aula.exe
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\exemplo_ dado_ em _aula.deps.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\exemplo_ dado_ em _aula.runtimeconfig.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\exemplo_ dado_ em _aula.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\ref\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\bin\Debug\net5.0\exemplo_ dado_ em _aula.pdb
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.AssemblyInfo.cs
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\ref\exemplo_ dado_ em _aula.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.pdb
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_ Conversor\obj\Debug\net5.0\exemplo_ dado_ em _aula.genruntimeconfig.cache

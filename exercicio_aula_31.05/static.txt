@@ -1,0 +1,2 @@
+O static é mais usado em calculos mais diretos sem formar um objeto.
+Ou coisas mais especificas.

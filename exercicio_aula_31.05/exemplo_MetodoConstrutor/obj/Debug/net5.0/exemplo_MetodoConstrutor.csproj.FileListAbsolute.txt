@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\exemplo_MetodoConstrutor.exe
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\exemplo_MetodoConstrutor.deps.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\exemplo_MetodoConstrutor.runtimeconfig.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\exemplo_MetodoConstrutor.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\exemplo_MetodoConstrutor.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\ref\exemplo_MetodoConstrutor.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\bin\Debug\net5.0\exemplo_MetodoConstrutor.pdb
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.AssemblyInfo.cs
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\ref\exemplo_MetodoConstrutor.dll
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.pdb
+C:\Users\user\Documents\backend_2-POO\exercicio_aula_31.05\exemplo_MetodoConstrutor\obj\Debug\net5.0\exemplo_MetodoConstrutor.genruntimeconfig.cache
